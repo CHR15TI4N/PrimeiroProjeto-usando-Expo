@@ -2,10 +2,10 @@ import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
     buttonContainer: {
-        padding: 10,
+        padding: 15,
         borderRadius: 4,
         backgroundColor: '#215',
-        margin: 6
+        margin: 5
     },
     buttonTitle: {
         color: '#fff',
